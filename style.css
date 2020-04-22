@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+body {
+    background: #2b81ac;
+    font-family: 'Handlee', cursive;
+    color: #eeede7ef;
+}
+.wrapper {
+    margin: 25px;
+    background: #3399cc;
+    padding: 30px 150px;
+}
+
+.city-list {
+    font-size: 0;
+    margin: 35px 0px;
+}
+.city-list li{
+    display: inline-block;
+    height: 70px;
+    padding: 20px 0px 10px 0px;
+    font-size: 20px;
+    outline: 3px solid #ffffffd5;
+    text-align: center;
+}
+ul:hover li {
+    opacity: 0.5;
+}
+ul:hover li:hover {
+    opacity: 1;
+}
+.first-type {
+    width: 50%;
+}
+.second-type {
+    width: 25%;
+}
+.third-type {
+    width: 100%;
+}
+.item-1 {
+    background: #3399cc;
+}
+.item-2 {
+    background: #33cccc;
+}
+.item-3 {
+    background: #996699;
+}
+.item-4{
+    background: #c24747;
+}
+.item-5{
+    background: #e2674a;
+}
+.item-6{
+    background: #ffcc66;
+}
+.item-7{
+    background: #99cc99;
+}
+.item-8{
+    background: #669999;
+}
+.item-9{
+    background: #cc6699;
+}
+.item-10{
+    background: #339966;
+}
+.item-11{
+    background: #666699;
+}
